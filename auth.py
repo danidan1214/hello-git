@@ -1,7 +1,6 @@
-print("2 auth.py")
-
-# d:/Cursos/Git/hello-git/auth.py
-print ("Hello Git Auth")
-
-# d:/Cursos/Git/hello-git/auth.py
-print ("Hello Git Auth")
+import random
+def jeugo_rapido():
+    """
+    Devuelve un número entre 1 y 6
+    """
+    return random.randint(1, 6)
